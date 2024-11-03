@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1729076235 source:c:\users\40786\documents\c++\poo_3\main.cpp
+	"Mesaj.h"
+	"Biscuiti.h"
+	<iostream>
+
+1729071848 c:\users\40786\documents\c++\poo_3\mesaj.h
+
+1729071848 source:c:\users\40786\documents\c++\poo_3\mesaj.cpp
+	"Mesaj.h"
+	<iostream>
+	<cstring>
+
+1729076282 source:c:\users\40786\documents\c++\poo_3\biscuiti.cpp
+	"Biscuiti.h"
+	<iostream>
+	<cstring>
+
+1729072375 c:\users\40786\documents\c++\poo_3\biscuiti.h
+
